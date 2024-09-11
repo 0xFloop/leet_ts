@@ -1,3 +1,2 @@
-import {solve} from './easy/powerOfThree';
+import {solve} from './medium/invertBinaryTree';
 let res = solve();
-console.log(res);
